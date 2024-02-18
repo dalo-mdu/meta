@@ -284,9 +284,9 @@ Utbildningsutskottet, med ansvar för föreningensprogram.
 
 Dalophest, med ansvar för att främja gemenskapen inom föreningen.
 
-Ordförande av utskotten väljs av årsmötet. Ordförande skall sitta i
+Ordförande av utskotten utses av styrelsen. Ordförande skall sitta i
 styrelsen i form av adjungerad ledamot om denna ej redan håller en plats
-i styrelsen. Resterande medlemmar av utskottet tillsätts av styrelsen.
+i styrelsen. Resterande medlemmar av utskottet tillsätts av utskottets ordförande.
 
 Utskotten skall rapportera till styrelsen vid varje styrelsemöte.
 

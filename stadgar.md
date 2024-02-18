@@ -245,8 +245,6 @@ förslagsrätt.
 
 **Kallelse beslutsmässighet och omröstning:**
 
-Kallelse skall ske 2-3 veckor innan styrelsemöte.
-
 Styrelsen sammanträder regelbundet, eller på kallelse av ordförande,
 eller genom ordföranden av i styrelsen sittande medlemmar.
 

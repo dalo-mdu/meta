@@ -88,8 +88,8 @@ Föreningens firma tecknas av ordförande och kassör.
 
 **Verksamhets- och räkenskapsår:**
 
-Föreningens verksamhets- och räkenskapsår omfattar tiden 1 januari till
-och med 31 december.
+Föreningens verksamhets- och räkenskapsår omfattar tiden 1 juli till
+och med 30 juni.
 
 Styrelsen är vald för tiden från årsmötet till och med årsmötet
 påföljande år.

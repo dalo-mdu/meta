@@ -22,7 +22,7 @@ Föreningens verksamhet skall vara ideell, samt organiseras enligt
 demokratiska principer.
 
 Föreningen skall innehålla endast studenter som studerar vid Mälardalens
-Högskola inom program godkända av styrelsen, eller före detta studenter
+universitet inom program godkända av styrelsen, eller före detta studenter
 inom dessa program. För att utesluta ett program ur föreningen krävs
 beslut vid årsmöte. Studenter som studerar eller studerat vid en svensk
 högskola/universitet men som ej studerar eller har studerat ett av
@@ -152,7 +152,7 @@ möteshandlingar, motioner och dagordning, senast en vecka före årsmötet.
 **Rösträtt samt yttrande- och förslagsrätt på årsmötet:**
 
 Medlem som har betalat ålagd medlemsavgift har rösträtt på årsmötet,
-medlemmen skall även bedriva studier vid högskolan.
+medlemmen skall även bedriva studier vid Mälardalens universitet.
 
 Rösträtten är personlig och får inte utövas genom ombud.
 
